@@ -26,7 +26,7 @@ In ADB, enable the use of resource principals for the MOVIESTREAM user.
 
 1. From the **Console,** Open the **Navigation** menu and click **Oracle Database.** Under **Oracle Database,** click **Autonomous Database.**
 
-2. On the **Autonomous Database** page, click your **MovieStreamWorkshop** ADB instance. 
+2. On the **Autonomous Database** page, click your **MovieStreamWorkshop** ADB instance (your database name may be different). 
 
     ![Open ADB](./images/click-adb.png "")
 
